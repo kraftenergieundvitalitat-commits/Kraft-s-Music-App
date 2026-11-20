@@ -1,6 +1,6 @@
 // À chaque nouvelle version de l'appli : change VERSION ici (et APP_VERSION dans index.html).
 // Ce changement permet à l'appli installée de détecter la mise à jour et de prévenir l'utilisateur.
-const VERSION = "1.2";
+const VERSION = "1.4";
 const C = "musique-" + VERSION;
 const FILES = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 
